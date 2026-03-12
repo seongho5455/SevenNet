@@ -1,4 +1,6 @@
 # Harmonic Approximation
+
+
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
@@ -401,7 +403,13 @@ def main():
 if __name__ == "__main__":
     main()
 -------------------------------------------------------모든 phase 반복 실행 --- --------------------------------------------------------------------------
+
+
+
+
 # Quassi Harmonic Approximation
+
+
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
